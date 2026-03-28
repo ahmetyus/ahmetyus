@@ -16,10 +16,10 @@ My core focus is on automating ETL processes, engineering SEO-optimized content 
 ### 🚀 Featured Projects & Architecture
 
 | Project | Description |
-|---------|-------------|
-| [AI-Bridge: CRM to WP Pipeline](https://github.com/ahmetyus/ai-bridge) | An automated ETL pipeline that extracts briefs via CRM APIs, generates SEO-optimized HTML content using Gemini API & LangChain, and auto-publishes to WordPress via REST API. |
-| [SmartDoc AI](https://github.com/ahmetyus/smartdoc-ai) | Intelligent document processing and Q&A system built with LangChain, FAISS (Vector Database), and Streamlit for contextual data retrieval. |
-| [AI SEO Toolkit](https://github.com/ahmetyus/wp-seo-toolkit) | Python/JS automation scripts for SEO auditing, auto-generating meta-tags, and semantic content enhancement using advanced prompt engineering. |
+| :--- | :--- |
+| **[ContentFlow Pro](https://github.com/ahmetyus/contentflow-pro)** | An automated ETL pipeline that extracts briefs via CRM APIs, generates SEO-optimized HTML content using Gemini API & LangChain, and auto-publishes to WordPress via REST API. |
+| **[SmartDoc AI](https://github.com/ahmetyus/smartdoc-ai)** | Intelligent document processing and Q&A system built with LangChain, FAISS (Vector Database), and Streamlit for contextual data retrieval. |
+| **[AI SEO Toolkit](https://github.com/ahmetyus/wp-seo-toolkit)** | Python/JS automation scripts for SEO auditing, auto-generating meta-tags, and semantic content enhancement using advanced prompt engineering. |
 
 ### 📫 Let's Connect
 
